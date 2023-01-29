@@ -6,15 +6,15 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/></a>
-<a href="https://github.com/MartinMerkli" target="_blank" rel="noreferrer">@MartinMerkli</a>: main account <br>
-<a href="https://github.com/Emil105105" target="_blank" rel="noreferrer">@Emil105105</a> for side-projects
+<i>Github</i> <a href="https://github.com/MartinMerkli" target="_blank" rel="noreferrer">@MartinMerkli</a>: main account <br>
+<i>Github</i> <a href="https://github.com/Emil105105" target="_blank" rel="noreferrer">@Emil105105</a> for side-projects
 
 <a href="https://pypi.org/" target="_blank" rel="noreferrer"><img align="left" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" alt="PyPI" width="32" height="32"/></a>
-<a href="https://pypi.org/user/MartinMerkli/" target="_blank" rel="noreferrer">@MartinMerkli</a>
+<i>PyPI</i> <a href="https://pypi.org/user/MartinMerkli/" target="_blank" rel="noreferrer">@MartinMerkli</a>
 <br clear="left">
 
 <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" width="32" height="32"/></a>
-<a href="https://stackoverflow.com/users/17872148/emil105" target="_blank" rel="noreferrer">@emil105</a>
+<i>Stackoverflow</i> <a href="https://stackoverflow.com/users/17872148/emil105" target="_blank" rel="noreferrer">@emil105</a>
 <br clear="left">
 
 <h3 align="left">Pinned Repositories:</h3>
@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://python.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"></a>
-I've been using <b>python</b> since 2019 for a variety of applications such as simple scripts, desktop apps and website backends. It's the language I started with and know most about.
+I've been using <b>python</b> since 2020 for a variety of applications such as simple scripts, desktop apps and website backends. It's the language I started with and know most about.
 <br clear="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="32" height="32"></a>
@@ -54,11 +54,11 @@ In the spring of 2022, I wanted to create my first website with python as the ba
 As a linux user, I've used <b>bash</b> to automate daily tasks as well as to create shortcuts.
 <br clear="left">
 
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="Git" width="32" height="32"></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="32" height="32"></a>
 For scientific papers which I have to write in school, I use <b>LaTeX</b> because it is well organized and the go-to standard.
 <br clear="left">
 
-<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="32" height="32"></a>
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"></a>
 As my website got more popular, I chose <b>SQLite</b> to store data such as hashed credentials and uploaded content from the users.
 <br clear="left">
 
