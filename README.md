@@ -67,5 +67,5 @@ My website uses <b>nginx</b> for SSL encryption and to secure the flask backend 
 <br clear="left">
 
 <a href="https://pypi.org/" target="_blank" rel="noreferrer"><img align="left" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" alt="PyPI" width="32" height="32"></a>
-Publishing a package on <b>pypi</b> is my next goal, on which I am currently working.
+I've published my first package on <b>pypi</b> in 2023.
 <br clear="left">
