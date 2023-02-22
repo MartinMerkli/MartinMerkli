@@ -19,8 +19,9 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 
+<a target="_blank" rel="noreferrer" href="https://github.com/MartinMerkli/ksalp.ch"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinmerkli&repo=ksalp.ch" alt="ksalp.ch"></a>
+<a target="_blank" rel="noreferrer" href="https://github.com/MartinMerkli/httpanalyzer"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinmerkli&repo=httpanalyzer" alt="httpanalyzer"></a>
 <a target="_blank" rel="noreferrer" href="https://github.com/MartinMerkli/merkli.me"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinmerkli&repo=merkli.me" alt="merkli.me"></a>
-<a target="_blank" rel="noreferrer" href="https://github.com/MartinMerkli/httpanalyzer"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinmerkli&repo=httpanalyzer" alt="merkli.me"></a>
 <br clear="left">
 
 
